@@ -79,7 +79,7 @@ Passenger → User (Many-to-One)
 Frontpage
 <img width="1902" height="975" alt="image" src="https://github.com/user-attachments/assets/ae757a7b-eb32-4789-b5f1-df160f281578" />
 
-Registration Page
+
 
 Booking Page
 <img width="1881" height="953" alt="image" src="https://github.com/user-attachments/assets/f0493848-449b-4b5b-96ab-df8765ec1849" />
